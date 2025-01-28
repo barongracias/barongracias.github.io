@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Baron Gracias"
   avatar : "/assets/images/baron.jpeg"
-  bio    : "Senior Data Scientist @ Mastercard, BSc Physics @ Bath."
+  bio    : "Senior Data Scientist @ Mastercard, BSc Physics @ Uni of Bath."
   links:
     # - label: "Website"
       # icon: "fas fa-fw fa-link"

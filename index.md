@@ -6,8 +6,6 @@ layout: single
 author_profile: true
 ---
 
-# About
-
 I am a *Data Scientist* at **Mastercard**.
 
 My main projects are:
