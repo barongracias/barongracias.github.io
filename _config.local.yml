@@ -1,0 +1,2 @@
+# Local development overrides to avoid remote theme download when offline.
+remote_theme:

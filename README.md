@@ -1,27 +1,28 @@
-# Minimal Mistakes remote theme starter
+# barongracias.github.io
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+Source for my personal site/portfolio built with Jekyll and the Minimal Mistakes remote theme. Posts and pages live in Markdown; GitHub Pages builds and hosts the site.
 
-Contains basic configuration to get you a site with:
+## Structure
+- `_config.yml` — site metadata, theme options, plugins.
+- `_pages/` — standalone pages (about, projects, etc.).
+- `_posts/` — dated blog posts with front matter.
+- `_data/` — navigation, authors, and other YAML-driven settings.
+- `assets/` and `files/` — images, downloads, and other static content.
+- `_site/` — generated output for local builds (GitHub Pages will rebuild from source).
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+## Run locally
+Prerequisites: Ruby + Bundler.
+```bash
+bundle install
+bundle exec jekyll serve --livereload
+# open http://localhost:4000
+```
+Stop and restart the server after changing `_config.yml` or installing new gems.
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+## Writing content
+- Create posts in `_posts/YYYY-MM-DD-title.md` with front matter (title, categories/tags, `layout: single`, `author_profile: true`).
+- Add or update pages in `_pages/`; include them in navigation via `_data/navigation.yml` if needed.
+- Home copy lives in `index.md` (uses the theme’s `single` layout with the author profile).
 
----
-
-## Troubleshooting
-
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+## Publishing
+Commits to the default branch trigger a GitHub Pages build using the `github-pages` gem and Minimal Mistakes. For a production preview, run `bundle exec jekyll build` and inspect `_site/` locally.

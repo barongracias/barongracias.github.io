@@ -16,7 +16,7 @@
 title: Baron Gracias
 email: barongracias@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Baron's online portfolio and blog.
+  Senior data scientist in payments, fraud analytics, and ML systems.
 # twitter_username: username
 github_username: barongracias
 theme: minimal-mistakes-jekyll
@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Baron Gracias"
   avatar : "/assets/images/baron.jpeg"
-  bio    : "Data Scientist @ Mastercard, BSc Physics @ Uni of Bath."
+  bio    : "Senior Data Scientist in payments and fraud analytics; building ML products that ship."
   links:
     # - label: "Website"
       # icon: "fas fa-fw fa-link"
@@ -70,6 +70,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/barongracias"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file-alt"
+      url: "/files/BaronGracias.pdf"
     # - label: "Instagram"
       # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -82,6 +85,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/barongracias"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file-alt"
+      url: "/files/BaronGracias.pdf"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"

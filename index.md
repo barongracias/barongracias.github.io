@@ -6,35 +6,30 @@ layout: single
 author_profile: true
 ---
 
-Hey there!
+Welcome! I build data products for payments, fraud, and financial insights. I turn messy transaction data into models, dashboards, and decisions that move the needle for stakeholders.
 
-I'm Baron and this is my portfolio/blog/online dump. Primarily for professional use though it includes blog posts related to, hopefully, interesting topics.
+## What I'm focused on
+- Senior Data Scientist at Mastercard, specialising in payments and fraud analytics; four years of Python- and SQL-driven delivery.
+- Sponsored sabbatical for an MPhil in Machine Learning & AI at the University of Cambridge (2025-2026).
+- Trusted to translate complex signal into clear narratives for executives, regulators, and product teams.
 
-Professional Summary: <br>
-I am a Data Scientist at Mastercard, with over 3 years of experience utilising Python and SQL to make data-driven decisions. My role involves gathering insights, model development, business intelligence, software engineering and econometrics for the greater good.
+## Selected highlights
+- Published industry-to-industry payment flows with the UK Office for National Statistics to help forecast economic shocks and supply chain shifts.
+- Deployed an XGBoost model classifying 15m accounts per month as business/personal with 85%+ accuracy; tuned execution plans to crunch billions of FPS/Bacs/ICS transactions.
+- Led fraud data provider proof-of-value using PCA and cluster analysis to assess feature vector similarity and early detection lift.
+- Built Open Banking payment-category mapping and "payment statistics" modules; A/B tests showed 80%+ user satisfaction.
+- Shipped a DOMO "60-second" dashboard for leadership; crisis response times dropped by up to 75%.
+- Created a resource management tool (99.6% allocation accuracy) that boosted utilisation up to 3x and corrected GBP 3m/year in financials.
 
-Skills:
-- Python, Machine Learning (scikit-learn, PyTorch), pandas, dask, matplotlib
-- EDA, A/B testing, classification (XGBoost, Random Forest, Logistic Regression), clustering (KMeans, DBSCAN), PCA
-- T-SQL & PL/SQL (SSMS, Teradata, Oracle)
-- Git, CI/CD (GitHub, BitBucket, Jira)
-- ETL & API (Alteryx, Postman)
-- BI Analytics (Power BI, Tableau, DOMO)
-- and of course, Excel
+## Tools and domains
+Python, SQL (Oracle, SSMS, Teradata), Spark, PyTorch, scikit-learn, OpenCV, HPC/parallelisation, classification, NLP, PCA, A/B testing, PowerBI, DOMO, Tableau, Git, Docker, CI/CD.
 
-Academic Summary:
-- Incoming MPhil (Hons) Data Intensive Science, University of Cambridge
-- BSc (Hons) Physics, University of Bath
-- Certifications
-    - IBM, Data Science Specialization
-    - Google, Data Analysis with R
-    - DeepLearning.ai, Machine Learning Specialization
-    - DeepLearning.ai, Machine Learning in Production
-    - Codeacademy, Intermediate Python
-    - Codeacademy, PyTorch
+## Certifications
+Stanford Machine Learning Specialization (2024), IBM Data Science Specialization (2024).
 
-Interests:
-- Building this website!
-- Tech e.g., new and emerging products/devices and of course software.
-- Corporate football - see here for my journey to an "international debut"!
-- Freelance data services; let's chat about your needs.
+## Outside of work
+Founder and Director of Sports at Mastercard: led corporate football teams, raised GBP 20k for charity, and organised events including a Women in Tech tournament and trips to the FIFCO World Cups.
+
+[Email me](mailto:barongracias@gmail.com){: .btn .btn--primary }
+[LinkedIn](https://www.linkedin.com/in/baron-gracias/){: .btn }
+[Download resume](/files/BaronGracias.pdf){: .btn }
