@@ -5,15 +5,25 @@ layout: single
 author_profile: true
 ---
 
-I help teams turn raw data into revenue, resilience, and clear decisions. Partner with me as a fractional data scientist/ML engineer, an advisor to de-risk roadmaps, or a builder who ships the first version and hands it over cleanly.
+I help teams turn raw data into revenue, resilience, and clear decisions. Work with me as an AI consultant, a hands-on ML/DS builder, or a fractional partner who keeps models healthy.
 
 ## What you get
 - Industry-grade delivery from a Senior DS who has shipped ML/analytics in regulated payments and fraud, with governance and auditability in mind.  
 - Deep AI skills (PyTorch/TensorFlow, experiment design, HPC-style workloads) backed by an MPhil in ML & AI with Physics at Cambridge.  
-- Clear communication, fast iteration, and documentation/runbooks that teams can own after handoff—no black boxes.
+- Clear communication, fast iteration, and documentation/runbooks that teams can own after handoff - no black boxes.
 
 ## Core offers
 <div class="card-grid two-col">
+  <div class="card">
+    <h3>AI consultancy</h3>
+    <p>Strategy, roadmaps, vendor assessments, and experiment design. Turn broad AI asks into scoped work with measurable outcomes and governance.</p>
+    <p class="muted">Deliverables: roadmap + success metrics, PoCs, integration plans, hiring/stack guidance.</p>
+  </div>
+  <div class="card">
+    <h3>ML/DS freelance</h3>
+    <p>Ship the v1: model, API, and lightweight UI with tests, monitoring, and docs. Dashboards that land in under a minute; Wrapped-style features that drive retention.</p>
+    <p class="muted">Deliverables: clean repos, tests, runbooks, pairing sessions, and post-launch support options.</p>
+  </div>
   <div class="card">
     <h3>Payments & fraud analytics</h3>
     <p>Segmentation, risk scoring, anomaly detection, and entity resolution tuned for FPS/Bacs/ICS volume. Model monitoring, explainability, and regulator-ready reporting baked in.</p>
@@ -24,28 +34,15 @@ I help teams turn raw data into revenue, resilience, and clear decisions. Partne
     <p>Design A/B tests, Wrapped-style insights, and "60-second" dashboards that give leadership fast signal. Translate data into stories that earn adoption.</p>
     <p class="muted">Deliverables: experiment design/analysis, data models, dashboards, stakeholder playbooks.</p>
   </div>
-  <div class="card">
-    <h3>AI/ML strategy & prototypes</h3>
-    <p>Scope ambiguous AI asks into focused builds. Vendor assessments, technical due diligence, and prototypes that prove value quickly.</p>
-    <p class="muted">Deliverables: roadmap + success metrics, PoCs, integration plans, hiring/stack guidance.</p>
-  </div>
-  <div class="card">
-    <h3>Build & handoff</h3>
-    <p>End-to-end delivery from notebook to API/UI, with CI/CD, observability, and handover sessions that leave teams confident.</p>
-    <p class="muted">Deliverables: clean repos, tests, runbooks, paired working sessions, and post-launch support options.</p>
-  </div>
-  <div class="card">
-    <h3>Career & academic mentorship</h3>
-    <p>Interview prep, salary expectations, performance reviews, and navigating big finance/tech. Guidance on when to switch teams or companies, and how to accelerate promotion.</p>
-    <p class="muted">Only grad in my cohort to reach Senior DS in 9 months; Cambridge MPhil; mentored interns/grads who all received return offers.</p>
-  </div>
 </div>
+
+**Mentorship (separate track):** one-on-one coaching to break into and thrive at Fortune 500 FinTechs and elite universities (e.g., Cambridge). [See mentorship page](/mentorship/).
 
 ## Engagement styles
 - **Advisory sprints:** roadmaps, vendor assessments, architecture reviews, and experiment plans with concrete next steps.  
 - **Build & handoff:** model + API + UI shipped with tests, observability, and docs; pairing sessions to upskill your team.  
 - **Fractional DS/ML:** ongoing ownership of live models/analytics, monitoring, and iteration.  
-- **Mentorship:** career and academic coaching for analysts, engineers, and grads aiming for fast progression or advanced study.  
+- **Mentorship (separate):** career and academic coaching for analysts, engineers, and grads aiming for fast progression or advanced study.  
 
 ## How engagements work
 - **Discovery (free):** 30-45 minutes to align on goals, data reality, and success criteria.

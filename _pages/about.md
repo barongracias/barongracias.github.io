@@ -4,7 +4,7 @@ permalink: /about/
 layout: single
 ---
 
-I'm a senior data scientist who ships ML and analytics for payments, fraud, and product teams. I like turning messy data into decisions leadership can act on, and building tools that survive real-world constraints. I reworked my Mastercard grad scheme to get broader exposure: instead of 2x9-month rotations, I pushed for 1x9 plus 2x4.5 months across International Payment Strategy/Portfolio/Project Management, Open Banking, UK Faster Payments, Financial Crime, and the Mastercard Economics Institute.
+I'm a senior data scientist who ships ML and analytics for payments, fraud, and product teams. I turn messy data into decisions leadership can act on and build tools that survive real-world constraints. University of Cambridge MPhil in Machine Learning & AI for Physics plus deep delivery in industry, with a physics undergrad that helps on science-heavy problems.
 
 ## Career snapshots
 **Senior Data Scientist, Mastercard**  
@@ -22,15 +22,18 @@ I'm a senior data scientist who ships ML and analytics for payments, fraud, and 
 **Data Scientist I, Mastercard**  
 - Portfolio analytics and strategy with advanced analytics, data mining, and statistical methods.  
 - Created a DOMO "60-second" leadership dashboard cutting crisis response times by up to 75%.  
-- Built a resource management tool (99.6% allocation accuracy) that tripled utilisation and corrected GBP 3m/year.
+- Built a resource management tool (99.6% allocation accuracy) that tripled utilisation and corrected GBP 3m/year.  
+- Rotated across International Payment Strategy/Portfolio/Project Management, Open Banking, UK Faster Payments, Financial Crime, and the Mastercard Economics Institute.
 
 ## Education
 - **University of Cambridge** - MPhil Machine Learning & AI with Physics (expected Distinction), 2025-2026  
 - **University of Bath** - BSc (Hons) Physics, High First Class, 2018-2022
 
 ## Certifications
-- Stanford Machine Learning Specialization (2024)  
-- IBM Data Science Specialization (2024)
+- DeepLearning.AI Machine Learning Specialization - <a href="/files/certs/DeepLearningAI-ML-Specialization.pdf">view certificate</a>  
+- IBM Data Science Professional Certificate - <a href="/files/certs/IBM-Data-Science-Professional.pdf">view certificate</a>  
+- ML in Production (DeepLearning.AI) - <a href="/files/certs/ML-in-Production.pdf">view certificate</a>  
+- Google Data Analytics with R - <a href="/files/certs/Google-Data-Analytics-R.pdf">view certificate</a>
 
 ## What I bring
 - Product sense: frame experiments, ship dashboards, and design features that users value.  
@@ -38,11 +41,22 @@ I'm a senior data scientist who ships ML and analytics for payments, fraud, and 
 - Communication: concise docs, stakeholder alignment, and playbooks that keep teams moving.  
 - Leadership: mentoring, culture building, and making collaboration enjoyable.
 
+## Conferences and community
+- **ConfX BI Summit Amsterdam** - BI and data strategy; attend to stay sharp on storytelling for execs and regulators.  
+- **HPE Data Science** - enterprise data platforms and MLOps; useful for benchmarking tooling and governance patterns.  
+- **Big Data London** - big data architectures and analytics; go for vendor landscape updates and case studies.  
+- **AI Expo London** - applied AI across industries; pick up deployment lessons and compliance considerations.  
+- **AI for Economics (Alan Turing Institute)** - economics-focused AI research; attend to bridge academic methods with policy-oriented analytics.
+
 ## Sports & community
 - Restarted and grew the London FinTech Football League from zero to 40 companies.  
 - Led Mastercard FC to two FIFCO World Cups (Greece and Morocco).  
 - Started company Netball and Padel teams to broaden access.  
 - Hosted a Women in Tech football tournament with 20 major companies, including Goldman Sachs, EY, Financial Times, and JPMorgan.  
+
+<div class="sports-image">
+  <img src="/files/pics/usairan.png" alt="Mastercard FC at FIFCO World Cup" loading="lazy" />
+</div>
 
 [Email me](mailto:barongracias@gmail.com){: .btn .btn--primary }
 [LinkedIn](https://www.linkedin.com/in/baron-gracias/){: .btn }

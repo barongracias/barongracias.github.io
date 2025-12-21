@@ -1,11 +1,9 @@
 main:
   - title: "Services"
     url: /services/
+  - title: "Mentorship"
+    url: /mentorship/
   - title: "About"
     url: /about/
   - title: "Projects"
     url: /projects/
-  - title: "Blog"
-    url: /blog/
-  - title: "Pictures"
-    url: /pictures/
