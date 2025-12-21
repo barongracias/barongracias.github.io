@@ -1,2 +1,3 @@
-# Local development overrides to avoid remote theme download when offline.
+# Local development overrides to avoid remote theme download when offline or behind SSL-inspecting proxies.
 remote_theme:
+theme: minimal-mistakes-jekyll
