@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Baron Gracias"
-  avatar : "/assets/images/baron.jpeg"
+  avatar : "/files/pics/baron-pp.png"
   bio    : "Data scientist & AI consultant shipping ML, analytics, and products for payments and fraud teams."
   links:
     # - label: "Website"
