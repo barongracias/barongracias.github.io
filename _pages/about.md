@@ -4,25 +4,25 @@ permalink: /about/
 layout: single
 ---
 
-I am a senior data scientist focused on payments, fraud analytics, and the operational plumbing that keeps financial systems resilient. I enjoy translating raw transaction data into clear narratives for executives, regulators, and product teams.
+I'm a senior data scientist who ships ML and analytics for payments, fraud, and product teams. I like turning messy data into decisions leadership can act on, and building tools that survive real-world constraints. I reworked my Mastercard grad scheme to get broader exposure: instead of 2x9-month rotations, I pushed for 1x9 plus 2x4.5 months across International Payment Strategy/Portfolio/Project Management, Open Banking, UK Faster Payments, Financial Crime, and the Mastercard Economics Institute.
 
 ## Career snapshots
-**Senior Data Scientist, Mastercard (2025-Present)**  
+**Senior Data Scientist, Mastercard**  
 - Sponsored sabbatical for an MPhil in Machine Learning & AI at the University of Cambridge.  
-- Published industry-to-industry payment flows with the UK Office for National Statistics to help predict economic shocks.  
-- Built and productionised an XGBoost model classifying 15m accounts per month as business or personal with 85%+ accuracy, optimising pipelines to process billions of FPS/Bacs/ICS transactions.  
-- Led fraud data provider proof-of-value using PCA and cluster analysis to quantify feature similarity and early detection lift.  
+- Published industry-to-industry payment flows with the UK Office for National Statistics to forecast economic shocks.  
+- Built an XGBoost classifier for 15m+ accounts/month (business vs personal) and optimised pipelines to handle billions of FPS/Bacs/ICS transactions.  
+- Led a fraud data provider PoV with PCA/cluster analysis to measure signal lift and early detection value.  
 - Director of Sports; founded corporate teams, raised GBP 20k for charity, and organised Women in Tech events and FIFCO World Cup trips.
 
-**Data Scientist II, Mastercard (2024-2025)**  
-- Led NLP efforts for Pay.UK: tokenised fuzzy matching to map business names to Companies House with 88% accuracy across 50m accounts, plus sentiment/profanity detection in payment references.  
-- Built Open Banking payment-category mapping and a "payment statistics" module that delivered Spotify Wrapped-style insights; 80%+ user satisfaction in A/B tests.  
-- Analysed economic crime emergence in a new payment system and monitored early fraud signals via feature-importance tracking.
+**Data Scientist II, Mastercard**  
+- Led Pay.UK NLP: tokenised fuzzy matching to map business names to Companies House with 88% accuracy across 50m accounts; added sentiment/profanity detection in payment references.  
+- Built Open Banking categorisation and a "payment wrapped" experience; >80% satisfaction in A/B tests.  
+- Monitored economic crime emergence with early warning signals and feature importance tracking.
 
-**Data Scientist I, Mastercard (2020-2021 & 2022-2024)**  
-- Strategy and portfolio analytics role applying advanced analytics, data mining, and statistical techniques to optimise operations.  
-- Created a DOMO "60-second" leadership dashboard that cut crisis response times by up to 75%.  
-- Developed a resource management tool with 99.6% allocation accuracy, tripling utilisation and correcting GBP 3m/year from mismanaged timesheets.
+**Data Scientist I, Mastercard**  
+- Portfolio analytics and strategy with advanced analytics, data mining, and statistical methods.  
+- Created a DOMO "60-second" leadership dashboard cutting crisis response times by up to 75%.  
+- Built a resource management tool (99.6% allocation accuracy) that tripled utilisation and corrected GBP 3m/year.
 
 ## Education
 - **University of Cambridge** - MPhil Machine Learning & AI with Physics (expected Distinction), 2025-2026  
@@ -32,12 +32,18 @@ I am a senior data scientist focused on payments, fraud analytics, and the opera
 - Stanford Machine Learning Specialization (2024)  
 - IBM Data Science Specialization (2024)
 
-## Skills at a glance
-Python, SQL (Oracle, SSMS, Teradata), Spark, PyTorch, scikit-learn, OpenCV, HPC/parallelisation, classification, NLP, PCA, A/B testing, PowerBI, DOMO, Tableau, Git, Docker, CI/CD.
+## What I bring
+- Product sense: frame experiments, ship dashboards, and design features that users value.  
+- ML delivery: modelling, validation, monitoring, and clear write-ups for execs/regulators.  
+- Communication: concise docs, stakeholder alignment, and playbooks that keep teams moving.  
+- Leadership: mentoring, culture building, and making collaboration enjoyable.
 
-## Community and leadership
-I care about culture as much as code: founding sports teams, mentoring, fundraising, and hosting events that make tech more inclusive and enjoyable for everyone involved.
+## Sports & community
+- Restarted and grew the London FinTech Football League from zero to 40 companies.  
+- Led Mastercard FC to two FIFCO World Cups (Greece and Morocco).  
+- Started company Netball and Padel teams to broaden access.  
+- Hosted a Women in Tech football tournament with 20 major companies, including Goldman Sachs, EY, Financial Times, and JPMorgan.  
 
 [Email me](mailto:barongracias@gmail.com){: .btn .btn--primary }
 [LinkedIn](https://www.linkedin.com/in/baron-gracias/){: .btn }
-[Download resume](/files/BaronGracias.pdf){: .btn }
+[Download CV](/files/BaronGracias.pdf){: .btn }

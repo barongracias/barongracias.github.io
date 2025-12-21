@@ -9,7 +9,7 @@ An end-to-end classification system that labels bank accounts as business or per
 
 ## What I built
 - Production-grade XGBoost model scoring 15m accounts per month with 85%+ accuracy.
-- Parallelised data pipelines capable of processing billions of FPS/Bacs/ICS transactions without blowing SLAs.
+- Parallelised data pipelines capable of processing billions of FPS/Bacs/ICS transactions while meeting SLAs.
 - Evaluation suite with drift checks, calibration monitoring, and explainability slices for stakeholders.
 
 ## Problem
