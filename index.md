@@ -5,18 +5,18 @@ author_profile: true
 
 <div class="hero hero-split">
   <div class="hero-copy">
-    <p class="eyebrow">AI Consulting | ML Delivery | Analytics</p>
+    <p class="eyebrow">Data science | ML engineering | Analytics</p>
     <h1>Baron Gracias</h1>
-    <p class="lede">I turn messy data into ML, analytics, and products leaders can act on. Fast delivery, clear comms, hands-on time in payments/fraud, and a University of Cambridge MPhil (Machine Learning & AI for Physics) built on a physics undergrad.</p>
+    <p class="lede">Senior data scientist with Cambridge ML training and payments/fraud delivery at Mastercard. I design and ship AI, analytics, and data products that leadership can use without translation—fast scoping, hands-on build, and clear documentation.</p>
     <div class="hero-ctas">
       <a class="btn btn--primary" href="mailto:barongracias@gmail.com">Book a project</a>
       <a class="btn" href="/files/BaronGracias.pdf">Download CV</a>
       <a class="btn" href="https://www.linkedin.com/in/baron-gracias/">LinkedIn</a>
     </div>
     <div class="hero-meta">
-      <span>AI/ML advisory & builds</span>
-      <span>4+ years Senior DS, Mastercard</span>
-      <span>MPhil ML & AI with Physics, Cambridge</span>
+      <span>AI/ML advisory and delivery</span>
+      <span>Senior Data Scientist, Mastercard (payments, fraud, product)</span>
+      <span>MPhil ML & AI (University of Cambridge)</span>
     </div>
   </div>
   <div class="hero-image">
@@ -28,34 +28,56 @@ author_profile: true
 <div class="card-grid two-col">
   <div class="card">
     <h3>AI consultancy</h3>
-    <p>Strategy, roadmaps, vendor reviews, and experiment plans. Turn "we need AI" into scoped work with clear owners, success metrics, and governance.</p>
-    <p class="muted">Cambridge MPhil in ML & AI; shipped models in regulated payments/fraud.</p>
+    <p>Translate broad AI/analytics goals into roadmaps, vendor assessments, and experiment plans with measurable outcomes and governance built in.</p>
+    <p class="muted">MPhil in ML & AI from Cambridge; shipped models in regulated payments/fraud.</p>
   </div>
   <div class="card">
     <h3>ML/DS freelance</h3>
-    <p>Build the first version: model, API, and lightweight UI with tests, monitoring, and docs. Dashboards that land in under a minute; Wrapped-style features that keep users engaged.</p>
-    <p class="muted">Recent: exec dashboards cutting crisis response by 75%; Wrapped A/B with 80%+ satisfaction.</p>
+    <p>Ship the first version: model, API, and lightweight UI with tests, monitoring, and docs. Fast iterations with stakeholders and clean handoffs.</p>
+    <p class="muted">Recent: exec dashboards cutting crisis response by 75%; Wrapped-style insights with 80%+ satisfaction.</p>
   </div>
   <div class="card">
     <h3>Mentorship</h3>
     <p>One-on-one career and academic coaching: interviews, promotions, navigating Fortune 500 FinTechs, and applying to elite universities.</p>
-    <p class="muted">Only grad in cohort to reach Senior DS in 9 months at Mastercard; guidance on landing at brand-name firms and Cambridge-level programs.</p>
+    <p class="muted">Only grad in cohort to reach Senior DS in 9 months at Mastercard; admitted to Cambridge MPhil.</p>
   </div>
 </div>
 
 ## Why partner with me
 <div class="card-grid three-col">
   <div class="card">
-    <h3>Industry-grade delivery</h3>
-    <p>Shipped ML and analytics in payments, fraud, and Open Banking; physics background helps me reason through scientific problems too.</p>
+    <h3>Payments-grade delivery</h3>
+    <p>Shipped ML and analytics in payments, fraud, and Open Banking. Comfortable with scheme constraints, auditability, and uptime expectations.</p>
   </div>
   <div class="card">
-    <h3>Deep AI & research chops</h3>
-    <p>University of Cambridge MPhil in Machine Learning & AI for Physics; comfortable bridging ML with scientific domains, PyTorch/TensorFlow, experiment design, and HPC-style workloads.</p>
+    <h3>Applied AI depth</h3>
+    <p>University of Cambridge MPhil in Machine Learning & AI for Physics. Strong with experiment design, PyTorch/TensorFlow, and bridging scientific and product contexts.</p>
   </div>
   <div class="card">
     <h3>Fast, clear execution</h3>
-    <p>Only grad in cohort promoted to Senior DS in 9 months. Quick delivery, tidy code, and clear docs/playbooks.</p>
+    <p>Promoted to Senior DS in 9 months. Direct communication, tidy repos, and playbooks teams can own.</p>
+  </div>
+</div>
+
+## Recent results {#results}
+<div class="card-grid three-col">
+  <div class="card">
+    <p class="eyebrow">Payments insight</p>
+    <h3>ONS industry payment flows</h3>
+    <p>Published UK industry-to-industry payment flows to forecast economic shocks and supply chain shifts. Built repeatable analysis for policy-grade stakeholders.</p>
+    <p class="muted"><a href="/projects/payment-flows-ons/">See project</a></p>
+  </div>
+  <div class="card">
+    <p class="eyebrow">Risk &amp; segmentation</p>
+    <h3>15m+/month account classifier</h3>
+    <p>XGBoost model and pipelines processing billions of FPS/Bacs/ICS transactions monthly with explainability and drift monitoring.</p>
+    <p class="muted"><a href="/projects/account-classifier/">See project</a></p>
+  </div>
+  <div class="card">
+    <p class="eyebrow">Product analytics</p>
+    <h3>Payment Wrapped</h3>
+    <p>Open Banking categorisation and Wrapped-style insights that scored 80%+ satisfaction in A/B tests and reduced support clean-up.</p>
+    <p class="muted"><a href="/projects/payment-wrapped/">See project</a></p>
   </div>
 </div>
 
@@ -105,7 +127,7 @@ author_profile: true
 - Evaluated fraud-data providers with PCA/cluster analysis to quantify signal lift and early detection value.
 - Built Open Banking payment-category mapping plus a Wrapped-style module; >80% satisfaction in A/B tests.
 - Delivered an exec "60-second" DOMO dashboard that cut crisis response times by up to 75% and corrected GBP 3m/year in financials.
-- Reworked the grad scheme into 1x9 + 2x4.5 month stints across International Payment Strategy/Portfolio/Project Management, Open Banking, UK Faster Payments, Financial Crime, and the Mastercard Economics Institute to learn the stack end-to-end.
+- Rotated across International Payment Strategy, Open Banking, UK Faster Payments, Financial Crime, and the Mastercard Economics Institute to learn the stack end-to-end.
 - MEI: exploratory analysis on Iceland tourism-driven GDP uplift using OAG flight data to size sector impact.
 - Fraud: integrated with Feedzai, building a Spark adapter to convert input schemas into the AutoML pipeline.
 

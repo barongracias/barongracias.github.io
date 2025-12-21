@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-I build data and ML products that stay reliable when data is messy and stakeholders need clear signal. Explore open-source, industry, and academic work.
+I build data and ML products that stay reliable when data is messy and stakeholders need clear signal. Selected open-source, industry, and academic work that reflects payments-scale delivery and research depth. Looking for how to engage? Visit the [services page](/services/).
 
 ## Git projects (open-source)
 - **g-maps-timeline** - fog-of-war travel map that ingests Google Timeline exports, aggregates to H3 grids, and renders MapLibre tiles per year with privacy-first filtering.  
@@ -22,15 +22,20 @@ I build data and ML products that stay reliable when data is messy and stakehold
   <span class="muted"><a href="https://github.com/barongracias/kickup-counter">github.com/barongracias/kickup-counter</a></span>
 
 ## Industry projects
-- **Payment flows with the UK Office for National Statistics** - published industry-to-industry payment flow insights to forecast economic shocks and UK supply chain shifts.  
-- **Business vs personal account classifier** - XGBoost model for 15m+ accounts/month with pipelines tuned for billions of FPS/Bacs/ICS transactions.  
+**Payments & fraud**
+- **Payment flows with the UK Office for National Statistics** - published industry-to-industry payment flow insights to forecast economic shocks and UK supply chain shifts. <a href="/projects/payment-flows-ons/">See details</a>.  
+- **Business vs personal account classifier** - XGBoost model for 15m+ accounts/month with pipelines tuned for billions of FPS/Bacs/ICS transactions. <a href="/projects/account-classifier/">See details</a>.  
 - **Fraud data provider PoV** - PCA/cluster analysis on feature vectors to measure similarity, lift, and early detection value for fraud signals.  
-- **Open Banking "payment wrapped"** - categorisation + insights module delivering >80% satisfaction in A/B tests.  
 - **Pay.UK NLP and reference hygiene** - tokenised fuzzy matching to Companies House with 88% accuracy across 50m accounts; sentiment/profanity detection on payment references.  
-- **Operational intelligence** - exec "60-second" DOMO dashboard cutting crisis response by 75%; resource tool with 99.6% allocation accuracy correcting GBP 3m/year.
-- **Multi-team delivery** - reshaped the grad scheme into 1x9 + 2x4.5 month rotations across International Payment Strategy/Portfolio/Project Management, Open Banking, UK Faster Payments, Financial Crime, and the Mastercard Economics Institute.
+- **Fraud integrations** - integrated with Feedzai; built a Spark adapter to convert input schemas into the AutoML pipeline.  
+
+**Product analytics & experimentation**
+- **Open Banking "payment wrapped"** - categorisation + insights module delivering >80% satisfaction in A/B tests. <a href="/projects/payment-wrapped/">See details</a>.  
+- **Operational intelligence** - exec "60-second" DOMO dashboard cutting crisis response by 75%; resource tool with 99.6% allocation accuracy correcting GBP 3m/year.  
+
+**Strategy & delivery**
+- **Multi-team delivery** - rotations across International Payment Strategy/Portfolio/Project Management, Open Banking, UK Faster Payments, Financial Crime, and the Mastercard Economics Institute to speak both strategy and implementation.  
 - **Economics institute** - exploratory analysis on Iceland tourism-driven GDP uplift using OAG flight data to size sector impact.
-- **Fraud integrations** - integrated with Feedzai; built a Spark adapter to convert input schemas into the AutoML pipeline.
 
 ## Academic projects
 - **Cambridge MPhil (ML & AI with Physics)** - research on CNN-based satellite trail removal in astronomical imagery: segmentation models to detect and mask Starlink/OneWeb/other satellite streaks, testing robustness to noise and keeping inference fast for observatories.  

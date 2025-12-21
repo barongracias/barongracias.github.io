@@ -5,10 +5,10 @@ layout: single
 author_profile: true
 ---
 
-I offer one-on-one mentorship for analysts, engineers, and grads looking to level up, navigate promotions, or pursue advanced study. This is a separate track from B2B consulting. The focus: break into and thrive at Fortune 500 FinTechs (e.g., Mastercard) and earn spots at brand-name universities like the University of Cambridge.
+I offer one-on-one mentorship for analysts, engineers, and grads looking to level up, navigate promotions, or pursue advanced study. Separate from B2B consulting, this track focuses on breaking into and thriving at Fortune 500 FinTechs (e.g., Mastercard) and earning spots at institutions like the University of Cambridge.
 
 ## Focus areas
-Helping you land and thrive in Fortune 500 FinTech roles and elite academic programs.
+Practical support to land and grow in Fortune 500 FinTech roles and elite academic programs.
 - Interviews and salary benchmarks for data/ML roles.  
 - Performance narratives and goal setting that resonate with managers.  
 - Navigating big finance/tech: when to change teams, how to get promoted quickly, and maintaining work-life balance.  
@@ -24,5 +24,7 @@ Helping you land and thrive in Fortune 500 FinTech roles and elite academic prog
 - 30-minute chemistry call to align on goals.  
 - Lightweight plan with tangible next steps.  
 - Sessions via video; async feedback on CVs, promotions, or study applications as needed.
+
+Looking for consulting or delivery support? See the [services page](/services/).
 
 [Book a mentorship chat](mailto:barongracias@gmail.com){: .btn .btn--primary }

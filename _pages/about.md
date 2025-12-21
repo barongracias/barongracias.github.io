@@ -4,7 +4,7 @@ permalink: /about/
 layout: single
 ---
 
-I'm a senior data scientist who ships ML and analytics for payments, fraud, and product teams. I turn messy data into decisions leadership can act on and build tools that survive real-world constraints. University of Cambridge MPhil in Machine Learning & AI for Physics plus deep delivery in industry, with a physics undergrad that helps on science-heavy problems.
+I'm a senior data scientist who ships AI, analytics, and ML products for payments, fraud, and product teams. I pair a University of Cambridge MPhil in Machine Learning & AI for Physics with hands-on delivery at Mastercard, turning messy data into decisions leadership can act on. The goal: models, dashboards, and playbooks that hold up in regulated environments and stay explainable.
 
 ## Career snapshots
 **Senior Data Scientist, Mastercard**  
@@ -23,7 +23,7 @@ I'm a senior data scientist who ships ML and analytics for payments, fraud, and 
 - Portfolio analytics and strategy with advanced analytics, data mining, and statistical methods.  
 - Created a DOMO "60-second" leadership dashboard cutting crisis response times by up to 75%.  
 - Built a resource management tool (99.6% allocation accuracy) that tripled utilisation and corrected GBP 3m/year.  
-- Rotated across International Payment Strategy/Portfolio/Project Management, Open Banking, UK Faster Payments, Financial Crime, and the Mastercard Economics Institute.
+- Rotated across International Payment Strategy/Portfolio/Project Management, Open Banking, UK Faster Payments, Financial Crime, and the Mastercard Economics Institute; promoted to Senior DS in 9 months.
 
 ## Education
 - **University of Cambridge** - MPhil Machine Learning & AI with Physics (expected Distinction), 2025-2026  
@@ -60,4 +60,5 @@ I'm a senior data scientist who ships ML and analytics for payments, fraud, and 
 
 [Email me](mailto:barongracias@gmail.com){: .btn .btn--primary }
 [LinkedIn](https://www.linkedin.com/in/baron-gracias/){: .btn }
+[Services](/services/){: .btn }
 [Download CV](/files/BaronGracias.pdf){: .btn }
