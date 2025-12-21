@@ -20,7 +20,7 @@ author_profile: true
     </div>
   </div>
   <div class="hero-image">
-    <img src="/files/pics/baron-pp.png" alt="Baron Gracias portrait" loading="lazy" />
+    <img src="/assets/images/baron.jpeg" alt="Baron Gracias portrait" loading="lazy" />
   </div>
 </div>
 
