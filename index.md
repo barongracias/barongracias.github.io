@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-<div class="hero hero-split">
+<div class="hero">
   <div class="hero-copy">
     <p class="eyebrow">Data Science | Machine Learning & AI | Builder</p>
     <h1>Baron Gracias</h1>
@@ -19,10 +19,6 @@ author_profile: true
       <span>Mentorship & Consultation</span>
     </div>
   </div>
-</div>
-
-<div class="sports-image">
-  <img src="/assets/images/baron-cam.png" alt="Baron Gracias portrait" loading="lazy" />
 </div>
 
 ## Services at a glance {#services}
