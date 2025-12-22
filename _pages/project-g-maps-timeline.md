@@ -1,5 +1,5 @@
 ---
-title: "g-maps-timeline - Fog-of-war travel map"
+title: "Fog-of-war map"
 permalink: /projects/g-maps-timeline/
 layout: single
 author_profile: true

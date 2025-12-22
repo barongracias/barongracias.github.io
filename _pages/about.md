@@ -4,7 +4,7 @@ permalink: /about/
 layout: single
 ---
 
-I'm a senior data scientist who ships AI, analytics, and ML products for payments, fraud, and product teams. I pair a University of Cambridge MPhil in Machine Learning & AI for Physics with hands-on delivery at Mastercard, turning messy data into decisions leadership can act on. The goal: models, dashboards, and playbooks that hold up in regulated environments and stay explainable.
+I'm a Senior Data Scientist from Mastercard and an ML/AI specialist from the University of Cambridge. I design AI systems, build robust ML models, and deliver revenue-generating projects—including publishing government insights with the UK Office for National Statistics. I pair a Cambridge MPhil in Machine Learning & AI for Physics with hands-on delivery in regulated payments/fraud teams to turn messy data into decisions leadership can act on and to help teams identify high-ROI AI implementations. The goal: models, dashboards, and playbooks that hold up in regulated environments and stay explainable.
 
 ## Career snapshots
 **Senior Data Scientist, Mastercard**  

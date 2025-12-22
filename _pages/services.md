@@ -5,38 +5,38 @@ layout: single
 author_profile: true
 ---
 
-I help data, product, and risk leaders turn messy datasets into production AI and analytics. Work with me as an AI consultant, a hands-on ML/DS builder, or a fractional partner who keeps models healthy.
+I'm a Senior Data Scientist from Mastercard and ML/AI specialist from Cambridge University. I help data, product, and risk leaders design AI systems, build robust ML/analytics, and land high-ROI implementations. Work with me as an AI consultant, a hands-on ML/DS builder, a forward-deployed partner, or a fractional owner who keeps models healthy.
 
 ## What you get
-- Industry-grade delivery from a Senior DS who has shipped ML/analytics in regulated payments and fraud, with governance and auditability in mind.  
-- Deep AI skills (PyTorch/TensorFlow, experiment design, HPC-style workloads) backed by an MPhil in ML & AI with Physics at Cambridge.  
-- Clear communication, fast iteration, and documentation/runbooks that teams can own after handoff—no black boxes.
+- Industry-grade delivery from a Senior DS (Mastercard) who has shipped ML/analytics in regulated payments and fraud, with governance and auditability in mind.  
+- Deep AI skills (PyTorch/TensorFlow, experiment design, HPC-style workloads) backed by a Cambridge MPhil in ML & AI for Physics.  
+- Clear communication, fast iteration, ROI focus, and documentation/runbooks that teams can own after handoff—no black boxes.
 
 ## Core offers
 <div class="card-grid two-col">
   <div class="card">
-    <h3>AI consultancy</h3>
-    <p>Strategy, roadmaps, vendor assessments, and experiment design. Turn broad AI asks into scoped work with measurable outcomes and governance.</p>
-    <p class="muted">Deliverables: roadmap + success metrics, PoCs, integration plans, hiring/stack guidance.</p>
+    <h3>AI Consultancy</h3>
+    <p>Translate broad AI/analytics goals into roadmaps, consult on data strategy, assess solution ROI, and plan implementation with governance built in.</p>
+    <p class="muted">Deliverables: data strategy, success metrics, vendor/stack guidance, integration plans, maintenance approaches.</p>
   </div>
   <div class="card">
-    <h3>ML/DS freelance</h3>
-    <p>Ship the v1: model, API, and lightweight UI with tests, monitoring, and docs. Dashboards that land fast; Wrapped-style features that drive retention.</p>
+    <h3>ML &amp; Data Sci freelance</h3>
+    <p>Ship the first version: model, API, and lightweight UI with tests, monitoring, and docs. Fast iterations with stakeholders and clean handoffs.</p>
     <p class="muted">Deliverables: clean repos, tests, runbooks, pairing sessions, and post-launch support options.</p>
   </div>
   <div class="card">
-    <h3>Payments & fraud analytics</h3>
-    <p>Segmentation, risk scoring, anomaly detection, and entity resolution tuned for FPS/Bacs/ICS volume. Model monitoring, explainability, and regulator-ready reporting baked in.</p>
-    <p class="muted">Deliverables: feature engineering, modelling + validation, production-ready pipelines, monitoring dashboards, documentation.</p>
+    <h3>Forward Deployment Engineer</h3>
+    <p>Embed with your team long term to build out data solutions, ship the v1 (model + API + UI) with tests/docs, then upskill your team.</p>
+    <p class="muted">Deliverables: delivery alongside your teams, knowledge transfer, monitoring/maintenance playbooks.</p>
   </div>
   <div class="card">
-    <h3>Product analytics & experimentation</h3>
-    <p>Design A/B tests, Wrapped-style insights, and "60-second" dashboards that give leadership fast signal. Translate data into stories that earn adoption.</p>
-    <p class="muted">Deliverables: experiment design/analysis, data models, dashboards, stakeholder playbooks.</p>
+    <h3>Mentorship</h3>
+    <p>One-on-one career and academic coaching: interviews, promotions, navigating Fortune 500 FinTechs, and applying to elite universities.</p>
+    <p class="muted"><a href="/mentorship/">See mentorship track</a> with focus areas and booking options.</p>
   </div>
 </div>
 
-**Mentorship (separate track):** one-on-one coaching to break into and thrive at Fortune 500 FinTechs and elite universities (e.g., Cambridge). [See mentorship page](/mentorship/).
+**Mentorship (separate track):** still available as a dedicated offer—details on the [mentorship page](/mentorship/).
 
 <div class="sports-image">
   <img src="{{ '/files/pics/work.png' | relative_url }}" alt="Collaboration and delivery at work" loading="lazy" />
@@ -44,8 +44,8 @@ I help data, product, and risk leaders turn messy datasets into production AI an
 
 ## Engagement styles
 - **Advisory sprints:** roadmaps, vendor assessments, architecture reviews, and experiment plans with concrete next steps.  
-- **Build & handoff:** model + API + UI shipped with tests, observability, and docs; pairing sessions to upskill your team.  
-- **Fractional DS/ML:** ongoing ownership of live models/analytics, monitoring, and iteration.  
+- **Build & handoff:** model + API + UI shipped with tests, observability, and docs; pairing sessions to upskill your team and forward deployment when you need embedded delivery.  
+- **Forward deployment / fractional DS/ML:** ongoing ownership of live models/analytics, monitoring, iteration, and enablement.  
 - **Mentorship (separate):** career and academic coaching for analysts, engineers, and grads aiming for fast progression or advanced study.  
 
 ## How engagements work
@@ -69,7 +69,7 @@ I help data, product, and risk leaders turn messy datasets into production AI an
 - Track record: only grad in cohort promoted to Senior DS within 9 months; multiple interns/new grads mentored to return offers; blend of big finance/tech experience and academic perspective.
 
 ## Tooling & stack
-Python (pandas, PyTorch, scikit-learn), SQL (Oracle, SSMS, Teradata), Spark, Plotly, PowerBI/DOMO/Tableau, Next.js/React, Docker, CI/CD. Comfortable in regulated environments and with HPC/parallelisation when data gets heavy.
+Python (PyTorch, TensorFlow, scikit-learn); ML/DL: CNNs, PCA, agents, classification; SQL (Oracle, SSMS, Teradata); C++ with HPC/parallelisation; Next.js/React for full-stack; BI: Tableau/PowerBI/DOMO; Docker, CI/CD, Git, Spark. Comfortable in regulated environments when data gets heavy.
 
 <div class="cta-block">
   <h2>Book a quick scoping call</h2>

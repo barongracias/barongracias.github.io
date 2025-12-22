@@ -7,7 +7,7 @@ author_profile: true
   <div class="hero-copy">
     <p class="eyebrow">Data Science | Machine Learning & AI | Builder</p>
     <h1>Baron Gracias</h1>
-    <p class="lede">Senior Data Scientist from Mastercard and ML/AI specialist from Cambridge University. Proven experience desiging AI systems, building robust ML models, delivering revenue-generating projects and publishing government insights. I can help you drive your data strategy and identify high-ROI AI implementation.</p>
+    <p class="lede">Senior Data Scientist from Mastercard and ML/AI specialist from Cambridge University. Proven experience designing AI systems, building robust ML models, delivering revenue-generating projects and publishing government insights. I can help you drive your data strategy and identify high-ROI AI implementation.</p>
     <div class="hero-ctas">
       <a class="btn btn--primary" href="mailto:barongracias@gmail.com">Book a project</a>
       <a class="btn btn--primary" href="/services/">View services</a>
