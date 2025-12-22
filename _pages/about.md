@@ -59,7 +59,9 @@ I'm a senior data scientist who ships AI, analytics, and ML products for payment
 
 ## Sports & community
 - Restarted and grew the London FinTech Football League from zero to 40 companies.  
-- Led Mastercard FC to two FIFCO World Cups (Greece and Morocco).  
+- Led Mastercard FC to two FIFCO World Cups (Greece and Morocco); the Greece run was covered in the [Mastercard careers blog](https://careers.mastercard.com/us/en/blogarticle/from-underdogs-to-silver-medalists-mastercard-s-journey-at-the-fifco-world-cup).  
+- Pitched directly to C-suite and EVP sponsors to fund programs, securing over £100k across three years.  
+- Recognised for impact on the Mastercard community with direct feedback from the CEO (Michael Miebach), CPO, CAO, CDO, and Vice Chair Jon Huntsman Jr. (former US Ambassador to Russia).  
 - Started company Netball and Padel teams to broaden access.  
 - Hosted a Women in Tech football tournament with 20 major companies, including Goldman Sachs, EY, Financial Times, and JPMorgan.  
 
