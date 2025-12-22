@@ -264,8 +264,15 @@ a:hover {
   margin-bottom: 0.35rem;
 }
 
+.sports-image {
+  margin: 1rem 0;
+  text-align: center;
+}
+
 .sports-image img {
   width: 100%;
+  max-width: 720px;
+  height: auto;
   border-radius: 14px;
   border: 1px solid var(--border);
   box-shadow: var(--shadow);
