@@ -89,14 +89,14 @@ I build data and ML products that stay reliable when data is messy and stakehold
 
 ## Industry projects
 **Payments & fraud**
-- **Payment flows with the UK Office for National Statistics** - published industry-to-industry payment flow insights to forecast economic shocks and UK supply chain shifts. <a href="/projects/payment-flows-ons/">See details</a>.  
-- **Business vs personal account classifier** - XGBoost model for 15m+ accounts/month with pipelines tuned for billions of FPS/Bacs/ICS transactions. <a href="/projects/account-classifier/">See details</a>.  
+- **Payment flows with the UK Office for National Statistics** - published industry-to-industry payment flow insights to forecast economic shocks and UK supply chain shifts. <a href="/projects/payment-flows-ons/">Case study</a>.  
+- **Business vs personal account classifier** - XGBoost model for 15m+ accounts/month with pipelines tuned for billions of FPS/Bacs/ICS transactions. <a href="/projects/account-classifier/">Case study</a>.  
 - **Fraud data provider PoV** - PCA/cluster analysis on feature vectors to measure similarity, lift, and early detection value for fraud signals.  
 - **Pay.UK NLP and reference hygiene** - tokenised fuzzy matching to Companies House with 88% accuracy across 50m accounts; sentiment/profanity detection on payment references.  
 - **Fraud integrations** - integrated with Feedzai; built a Spark adapter to convert input schemas into the AutoML pipeline.  
 
 **Product analytics & experimentation**
-- **Open Banking "payment wrapped"** - categorisation + insights module delivering >80% satisfaction in A/B tests. <a href="/projects/payment-wrapped/">See details</a>.  
+- **Open Banking "payment wrapped"** - categorisation + insights module delivering >80% satisfaction in A/B tests. <a href="/projects/payment-wrapped/">Case study</a>.  
 - **Operational intelligence** - exec "60-second" DOMO dashboard cutting crisis response by 75%; resource tool with 99.6% allocation accuracy correcting GBP 3m/year.  
 
 **Strategy & delivery**

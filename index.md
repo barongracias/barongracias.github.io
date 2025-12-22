@@ -74,28 +74,16 @@ author_profile: true
     <p class="muted"><a href="https://github.com/barongracias/SFE-Repayment-Calculator">github.com/barongracias/SFE-Repayment-Calculator</a></p>
   </div>
   <div class="card">
-    <p class="eyebrow">Media + PWA</p>
-    <h3>Wednesday's video rotation</h3>
-    <p>Mobile-first web app that assigns a weekly host, records short clips with MediaRecorder, and handles mock uploads/sharing. Local-first with backup/restore and PWA basics.</p>
-    <p class="muted"><a href="https://github.com/barongracias/wednesday-video">github.com/barongracias/wednesday-video</a></p>
-  </div>
-  <div class="card">
-    <p class="eyebrow">AI product checklist</p>
-    <h3>Ringers</h3>
-    <p>Mock-to-prod implementation guide for a sports meetup marketplace: API contract, auth roles, RLS, signed uploads, rate limits, realtime messaging, and moderation.</p>
-    <p class="muted"><a href="https://github.com/barongracias/ringers">github.com/barongracias/ringers</a></p>
-  </div>
-  <div class="card">
     <p class="eyebrow">ML pipeline</p>
     <h3>StockPredict</h3>
     <p>End-to-end stock forecasting sandbox: Yahoo Finance ingest, baseline vs tuned models (Lasso, LGBM, XGBoost, RF), grid search, plots, and CLI switches for experiments.</p>
     <p class="muted"><a href="https://github.com/barongracias/StockPredict">github.com/barongracias/StockPredict</a></p>
   </div>
   <div class="card">
-    <p class="eyebrow">Micro-interaction</p>
-    <h3>Kick Up Counter</h3>
-    <p>Vite + React mini-game with animated ball physics, rate-limited clicks, high-score persistence, and a gradient UI tuned for mobile.</p>
-    <p class="muted"><a href="https://github.com/barongracias/kickup-counter">github.com/barongracias/kickup-counter</a></p>
+    <p class="eyebrow">Interpolation platform</p>
+    <h3>InterPyApp</h3>
+    <p>5D->1D interpolation with FastAPI/Next.js, switchable NumPy/TensorFlow backends, and artifact tracking for reproducible runs.</p>
+    <p class="muted"><a href="https://github.com/barongracias/InterPyApp">github.com/barongracias/InterPyApp</a></p>
   </div>
 </div>
 
@@ -126,16 +114,16 @@ author_profile: true
     </div>
   </div>
   <div class="card">
-    <p class="eyebrow">Maps + ML</p>
-    <h3>g-maps-timeline</h3>
-    <p>Fog-of-war travel map from Google Timeline exports with H3 aggregation and MapLibre tiles.</p>
+    <p class="eyebrow">Metric learning</p>
+    <h3>m1-machine-learning</h3>
+    <p>MNIST baselines plus triplet-loss embeddings and transfer experiments with clear, reproducible results.</p>
     <div class="hero-ctas">
-      <a class="btn" href="/projects/g-maps-timeline/">Read the case</a>
+      <a class="btn" href="/projects/m1-machine-learning/">Read the case</a>
     </div>
   </div>
 </div>
 
-## Toolbox (quick view)
+## Toolbox
 <div class="pill-row">
   <span class="pill">Python (PyTorch, scikit-learn)</span>
   <span class="pill">SQL (Oracle, SSMS, Teradata)</span>
@@ -150,7 +138,7 @@ author_profile: true
 - **AI advisory sprints:** tighten roadmaps, vendor picks, and architecture with clear next steps.
 - **Build &amp; handoff:** ship the first version (model + API + UI) with tests/docs, then upskill your team.
 - **Fractional DS/ML:** part-time ownership to maintain and iterate on live models/analytics.
-- **Mentorship (separate):** one-on-one career/academic coaching - see the [mentorship page](/mentorship/) for details.
+- **Mentorship:** one-on-one career/academic coaching - see the [mentorship page](/mentorship/) for details.
 
 <div class="cta-block" id="contact">
   <h2>Let's build something useful</h2>
