@@ -28,3 +28,7 @@ Practical support to land and grow in Fortune 500 FinTech roles and elite academ
 Looking for consulting or delivery support? See the [services page](/services/).
 
 [Book a mentorship chat](mailto:barongracias@gmail.com){: .btn .btn--primary }
+
+<div class="sports-image">
+  <img src="{{ '/files/pics/work.png' | relative_url }}" alt="Work and mentorship visual" loading="lazy" />
+</div>
