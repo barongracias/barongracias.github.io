@@ -26,7 +26,7 @@ author_profile: true
   <div class="card">
     <h3>AI Consultancy</h3>
     <p>Translate broad AI/analytics goals into roadmaps, consult data strategy, assess solution ROI, plan implementation, support architecture design and ongoing maintenance.</p>
-    <p class="muted">Deep expertise in ML & AI from Cambridge University; designed and shipped production models in regulated payments environment.</p>
+    <p class="muted">Deep expertise in ML & AI from Cambridge; shipped production models in regulated environment.</p>
   </div>
   <div class="card">
     <h3>ML & Data Sci freelance</h3>
@@ -48,8 +48,8 @@ author_profile: true
 ## Why partner with me
 <div class="card-grid three-col">
   <div class="card">
-    <h3>Fast learner</h3>
-    <p>Shipped solutions in Payments, Fraud, Economics and Open Banking. Comfortable with scheme constraints, auditability and quality expectations.</p>
+    <h3>On the ground running</h3>
+    <p>Shipped solutions across teams, quickly learning and understanding what's important. Comfortable with scheme constraints, auditability and quality expectations.</p>
   </div>
   <div class="card">
     <h3>Applied AI depth</h3>
@@ -136,8 +136,8 @@ author_profile: true
   <span class="pill">Python (PyTorch, TensorFlow, scikit-learn)</span>
   <span class="pill">ML/DL: CNNs, PCA, Agents, Classification</span>
   <span class="pill">SQL (Oracle, SSMS, Teradata)</span>
-  <span class="pill">C++, HPC, Parallelisation</span>
   <span class="pill">Next.js/React for Full-Stack Dev</span>
+  <span class="pill">C++, HPC, Parallelisation</span>
   <span class="pill">BI: Tableau, PowerBI, DOMO</span>
   <span class="pill">Docker, CI/CD, Git, Spark</span>
 </div>
