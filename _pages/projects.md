@@ -17,7 +17,7 @@ I build data and ML products that stay reliable when data is messy and stakehold
       <a class="btn btn--primary" href="/projects/account-classifier/">Read the case</a>
     </div>
   </div>
-  <div class="card">
+  <div class="card highlight">
     <p class="eyebrow">Economic insight</p>
     <h3>Payment flows (ONS)</h3>
     <p>Industry-to-industry flow monitoring for the UK ONS to spot supply chain stress early with reproducible notebooks.</p>
@@ -26,7 +26,7 @@ I build data and ML products that stay reliable when data is messy and stakehold
       <a class="btn" href="https://www.ons.gov.uk/economy/economicoutputandproductivity/output/articles/industrytoindustrypaymentflowsuk/2016to2023experimentaldataandinsights">Publication</a>
     </div>
   </div>
-  <div class="card">
+  <div class="card highlight">
     <p class="eyebrow">Product analytics</p>
     <h3>Payment Wrapped</h3>
     <p>Open Banking categorisation plus Spotify-style insights that delivered 80%+ satisfaction in A/B tests.</p>
@@ -34,19 +34,11 @@ I build data and ML products that stay reliable when data is messy and stakehold
       <a class="btn" href="/projects/payment-wrapped/">Read the case</a>
     </div>
   </div>
-  <div class="card">
-    <p class="eyebrow">All case studies</p>
-    <h3>See all case studies</h3>
-    <p>Browse the full set, including open-source builds and academic work.</p>
-    <div class="hero-ctas">
-      <a class="btn" href="/projects/#case-studies">View all</a>
-    </div>
-  </div>
 </div>
 
 ## Open-source case studies {#case-studies}
 <div class="card-grid two-col">
-  <div class="card">
+  <div class="card highlight">
     <p class="eyebrow">Maps + ML</p>
     <h3>g-maps-timeline</h3>
     <p>Fog-of-war travel map built from Google Timeline exports with H3 aggregation and MapLibre tiles.</p>
@@ -54,7 +46,7 @@ I build data and ML products that stay reliable when data is messy and stakehold
       <a class="btn" href="/projects/g-maps-timeline/">Read the case</a>
     </div>
   </div>
-  <div class="card">
+  <div class="card highlight">
     <p class="eyebrow">Interpolation platform</p>
     <h3>InterPyApp</h3>
     <p>5D->1D interpolation with FastAPI/Next.js, switchable NumPy/TensorFlow backends, and artifact tracking.</p>
@@ -62,7 +54,7 @@ I build data and ML products that stay reliable when data is messy and stakehold
       <a class="btn" href="/projects/interpyapp/">Read the case</a>
     </div>
   </div>
-  <div class="card">
+  <div class="card highlight">
     <p class="eyebrow">FinTech modelling</p>
     <h3>SFE repayment simulator</h3>
     <p>Student Finance England loan modeller with interactive salary timelines, overpayments, and exports.</p>
@@ -70,7 +62,7 @@ I build data and ML products that stay reliable when data is messy and stakehold
       <a class="btn" href="/projects/sfe-repayment/">Read the case</a>
     </div>
   </div>
-  <div class="card">
+  <div class="card highlight">
     <p class="eyebrow">Metric learning</p>
     <h3>m1-machine-learning</h3>
     <p>Coursework suite covering MNIST baselines, triplet-loss embeddings, and transfer visualisations.</p>

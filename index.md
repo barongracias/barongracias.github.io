@@ -7,16 +7,15 @@ author_profile: true
   <div class="hero-copy">
     <p class="eyebrow">Data science | ML engineering | Analytics</p>
     <h1>Baron Gracias</h1>
-    <p class="lede">Senior data scientist with Cambridge ML training and payments/fraud delivery at Mastercard. I design and ship AI, analytics, and data products that leadership can use without translation—fast scoping, hands-on build, and clear documentation.</p>
+    <p class="lede">Senior data scientist delivering payments-grade AI and analytics. Fast scoping, hands-on build, and clear docs leadership can use without translation.</p>
     <div class="hero-ctas">
       <a class="btn btn--primary" href="mailto:barongracias@gmail.com">Book a project</a>
-      <a class="btn" href="/files/BaronGracias.pdf">Download CV</a>
-      <a class="btn" href="https://www.linkedin.com/in/baron-gracias/">LinkedIn</a>
+      <a class="btn" href="/services/">View services</a>
+      <a class="btn" href="/#case-studies">Case studies</a>
     </div>
     <div class="hero-meta">
-      <span>AI/ML advisory and delivery</span>
-      <span>Senior Data Scientist, Mastercard (payments, fraud, product)</span>
-      <span>MPhil ML & AI (University of Cambridge)</span>
+      <span>Payments/fraud delivery at Mastercard</span>
+      <span>MPhil ML & AI (Cambridge)</span>
     </div>
   </div>
   <div class="hero-image">
@@ -57,6 +56,10 @@ author_profile: true
     <h3>Fast, clear execution</h3>
     <p>Promoted to Senior DS in 9 months. Direct communication, tidy repos, and playbooks teams can own.</p>
   </div>
+</div>
+
+<div class="sports-image">
+  <img src="{{ '/files/pics/work2.png' | relative_url }}" alt="Collaboration and delivery" loading="lazy" />
 </div>
 
 ## Featured builds {#projects}
@@ -126,12 +129,13 @@ author_profile: true
 
 ## Toolbox
 <div class="pill-row">
-  <span class="pill">Python (PyTorch, scikit-learn)</span>
+  <span class="pill">Python (PyTorch, TensorFlow, scikit-learn)</span>
+  <span class="pill">ML/DL: CNNs, PCA, Agents, Classification</span>
   <span class="pill">SQL (Oracle, SSMS, Teradata)</span>
-  <span class="pill">Spark &amp; parallelisation</span>
-  <span class="pill">Next.js/React for data products</span>
-  <span class="pill">Experiment design &amp; A/B testing</span>
-  <span class="pill">Docker, CI/CD</span>
+  <span class="pill">C++, HPC, Parallelisation</span>
+  <span class="pill">Next.js/React for Full-Stack Dev</span>
+  <span class="pill">BI: Tableau, PowerBI, DOMO</span>
+  <span class="pill">Docker, CI/CD, Git, Spark</span>
 </div>
 <p class="muted">Want the full outcomes and stack? Click through to the <a href="/projects/">projects</a> and <a href="/services/">services</a> pages.</p>
 
