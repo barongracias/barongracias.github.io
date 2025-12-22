@@ -59,28 +59,6 @@ author_profile: true
   </div>
 </div>
 
-## Recent results {#results}
-<div class="card-grid three-col">
-  <div class="card">
-    <p class="eyebrow">Payments insight</p>
-    <h3>ONS industry payment flows</h3>
-    <p>Published UK industry-to-industry payment flows to forecast economic shocks and supply chain shifts. Built repeatable analysis for policy-grade stakeholders.</p>
-    <p class="muted"><a href="/projects/payment-flows-ons/">See project</a></p>
-  </div>
-  <div class="card">
-    <p class="eyebrow">Risk &amp; segmentation</p>
-    <h3>15m+/month account classifier</h3>
-    <p>XGBoost model and pipelines processing billions of FPS/Bacs/ICS transactions monthly with explainability and drift monitoring.</p>
-    <p class="muted"><a href="/projects/account-classifier/">See project</a></p>
-  </div>
-  <div class="card">
-    <p class="eyebrow">Product analytics</p>
-    <h3>Payment Wrapped</h3>
-    <p>Open Banking categorisation and Wrapped-style insights that scored 80%+ satisfaction in A/B tests and reduced support clean-up.</p>
-    <p class="muted"><a href="/projects/payment-wrapped/">See project</a></p>
-  </div>
-</div>
-
 ## Featured builds {#projects}
 <div class="card-grid three-col">
   <div class="card highlight">
@@ -157,28 +135,16 @@ author_profile: true
   </div>
 </div>
 
-## FinTech outcomes that scale
-- Published industry-to-industry payment flows with the UK Office for National Statistics to forecast economic shocks and supply chain shifts.
-- Classified 15m+ accounts per month (business vs personal) with XGBoost; pipelines tuned to crunch billions of FPS/Bacs/ICS transactions.
-- Evaluated fraud-data providers with PCA/cluster analysis to quantify signal lift and early detection value.
-- Built Open Banking payment-category mapping plus a Wrapped-style module; >80% satisfaction in A/B tests.
-- Delivered an exec "60-second" DOMO dashboard that cut crisis response times by up to 75% and corrected GBP 3m/year in financials.
-- Rotated across International Payment Strategy, Open Banking, UK Faster Payments, Financial Crime, and the Mastercard Economics Institute to learn the stack end-to-end.
-- MEI: exploratory analysis on Iceland tourism-driven GDP uplift using OAG flight data to size sector impact.
-- Fraud: integrated with Feedzai, building a Spark adapter to convert input schemas into the AutoML pipeline.
-
-## Toolbox
+## Toolbox (quick view)
 <div class="pill-row">
-  <span class="pill">Python (PyTorch, TensorFlow, scikit-learn)</span>
-  <span class="pill">SQL: Oracle, SSMS, Teradata</span>
+  <span class="pill">Python (PyTorch, scikit-learn)</span>
+  <span class="pill">SQL (Oracle, SSMS, Teradata)</span>
   <span class="pill">Spark &amp; parallelisation</span>
-  <span class="pill">Data viz: Plotly, PowerBI, DOMO, Tableau</span>
-  <span class="pill">Experiment design &amp; A/B testing</span>
-  <span class="pill">NLP, PCA, clustering, anomaly detection</span>
   <span class="pill">Next.js/React for data products</span>
-  <span class="pill">Dashboards &amp; storytelling</span>
+  <span class="pill">Experiment design &amp; A/B testing</span>
   <span class="pill">Docker, CI/CD</span>
 </div>
+<p class="muted">Want the full outcomes and stack? Click through to the <a href="/projects/">projects</a> and <a href="/services/">services</a> pages.</p>
 
 ## Ways to work together
 - **AI advisory sprints:** tighten roadmaps, vendor picks, and architecture with clear next steps.
