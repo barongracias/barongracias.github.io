@@ -13,9 +13,9 @@ author_profile: true
       <a class="btn btn--primary" href="/services/">View services</a>
     </div>
     <div class="hero-meta">
-      <span>AI/ML Advisory</span>
-      <span>Forward Deployed Engineering</span>
+      <span>AI Advisory</span>
       <span>Data Science Freelance</span>
+      <span>Forward Deployed Engineering</span>
       <span>Mentorship & Consultation</span>
     </div>
   </div>
