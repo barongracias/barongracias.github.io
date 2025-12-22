@@ -26,20 +26,17 @@ I'm a senior data scientist who ships AI, analytics, and ML products for payment
 - Rotated across International Payment Strategy/Portfolio/Project Management, Open Banking, UK Faster Payments, Financial Crime, and the Mastercard Economics Institute; promoted to Senior DS in 9 months.
 
 ## Education
-- **University of Cambridge** - MPhil Machine Learning & AI with Physics (expected Distinction), 2025-2026  
-- **University of Bath** - BSc (Hons) Physics, High First Class, 2018-2022
+**University of Cambridge — MPhil Machine Learning & AI for Physics (expected Distinction), 2025-2026**  
+- Michaelmas: Machine Learning, Statistical Methods, Research Computing  
+- Lent: Deep Learning, High Performance Computing, Medical Imaging  
+- Easter: Research Project, Multi Agent Systems  
+- Research: Automated detection of satellite trails in astronomical images using CNN segmentation (Starlink, OneWeb, etc.).  
+- Clare College Football: secured Mastercard shirt sponsorship (only team with a corporate sponsor).
 
-### MPhil summary (University of Cambridge)
-- **Michaelmas Term:** Machine Learning, Statistical Methods, Research Computing  
-- **Lent Term:** Deep Learning, High Performance Computing, Medical Imaging  
-- **Easter Term:** Research Project, Multi Agent Systems  
-- **Research Project:** Automated detection of satellite trails in astronomical images using deep learning; implemented CNN segmentation to remove contamination from proliferating satellites (Starlink, OneWeb, etc.).  
-- **Clare College Football:** Secured Mastercard shirt sponsorship (only team with a corporate sponsor).
-
-### BSc summary (University of Bath)
+**University of Bath — BSc (Hons) Physics, High First Class, 2018-2022**  
 - Grade: High First Class  
 - Notable results: Quantum Mechanics III (88), General Relativity III (88), Mathematics for Physics III (87), Probability & Statistics II (91), Electromagnetism II (87).  
-- Chancellor's Prize: Nominated in the Top 5 students for academic excellence and contributions to the university and community.
+- Chancellor's Prize: nominated in the Top 5 students for academic excellence and contributions to the university and community.
 
 ## Certifications
 - DeepLearning.AI Machine Learning Specialization - <a href="/files/certs/DeepLearningAI-ML-Specialization.pdf">view certificate</a>  
@@ -67,7 +64,7 @@ I'm a senior data scientist who ships AI, analytics, and ML products for payment
 - Hosted a Women in Tech football tournament with 20 major companies, including Goldman Sachs, EY, Financial Times, and JPMorgan.  
 
 <div class="sports-image">
-  <img src="/files/pics/usairan.png" alt="Mastercard FC at FIFCO World Cup" loading="lazy" />
+  <img src="{{ '/files/pics/usairan.png' | relative_url }}" alt="Mastercard FC at FIFCO World Cup" loading="lazy" />
 </div>
 
 [Email me](mailto:barongracias@gmail.com){: .btn .btn--primary }
