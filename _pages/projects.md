@@ -80,6 +80,10 @@ I build data and ML products that stay reliable when data is messy and stakehold
   </div>
 </div>
 
+<div class="sports-image">
+  <img src="{{ '/files/pics/fog.png' | relative_url }}" alt="Fog of war map visual" loading="lazy" />
+</div>
+
 ## Git projects (open-source)
 - **g-maps-timeline** - fog-of-war travel map that ingests Google Timeline exports, aggregates to H3 grids, and renders MapLibre tiles per year with privacy-first filtering.  
   <span class="muted"><a href="https://github.com/barongracias/FogofWar">github.com/barongracias/FogofWar</a> · <a href="/projects/g-maps-timeline/">Case study</a></span>
@@ -122,7 +126,3 @@ I build data and ML products that stay reliable when data is messy and stakehold
   <span class="muted"><a href="https://github.com/barongracias/m1-machine-learning">github.com/barongracias/m1-machine-learning</a> · <a href="/projects/m1-machine-learning/">Case study</a></span>
 
 [Want details or a walk-through? Email me.](mailto:barongracias@gmail.com){: .btn .btn--primary }
-
-<div class="sports-image">
-  <img src="{{ '/files/pics/fog.png' | relative_url }}" alt="Fog of war map visual" loading="lazy" />
-</div>

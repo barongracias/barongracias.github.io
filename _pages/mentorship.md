@@ -14,6 +14,10 @@ Practical support to land and grow in Fortune 500 FinTech roles and elite academ
 - Navigating big finance/tech: when to change teams, how to get promoted quickly, and maintaining work-life balance.  
 - Academic pathways: applying for advanced study at elite universities (e.g., Cambridge MPhil), balancing study with work.
 
+<div class="sports-image">
+  <img src="{{ '/files/pics/hsbc.png' | relative_url }}" alt="HSBC mentorship session" loading="lazy" />
+</div>
+
 ## Why me
 - Only grad in my cohort to reach Senior Data Scientist in 9 months at a Fortune 500 (Mastercard).  
 - Mentored interns/grads at Mastercard who all secured return offers.  
@@ -28,7 +32,3 @@ Practical support to land and grow in Fortune 500 FinTech roles and elite academ
 Looking for consulting or delivery support? See the [services page](/services/).
 
 [Book a mentorship chat](mailto:barongracias@gmail.com){: .btn .btn--primary }
-
-<div class="cambridge-shot">
-  <img src="{{ '/files/pics/baron-cam.png' | relative_url }}" alt="Baron Gracias at Cambridge" loading="lazy" />
-</div>

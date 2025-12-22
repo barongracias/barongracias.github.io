@@ -61,6 +61,10 @@ I'm a senior data scientist who ships AI, analytics, and ML products for payment
 - **AI Expo London** - applied AI across industries; pick up deployment lessons and compliance considerations.  
 - **AI for Economics (Alan Turing Institute)** - economics-focused AI research; attend to bridge academic methods with policy-oriented analytics.
 
+<div class="sports-image">
+  <img src="{{ '/files/pics/conf.png' | relative_url }}" alt="Conference presentation" loading="lazy" />
+</div>
+
 ## Sports & community
 - Restarted and grew the London FinTech Football League from zero to 40 companies.  
 - Led Mastercard FC to two FIFCO World Cups (Greece and Morocco); the Greece run was covered in the [Mastercard careers blog](https://careers.mastercard.com/us/en/blogarticle/from-underdogs-to-silver-medalists-mastercard-s-journey-at-the-fifco-world-cup).  

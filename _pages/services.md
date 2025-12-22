@@ -38,6 +38,10 @@ I help data, product, and risk leaders turn messy datasets into production AI an
 
 **Mentorship (separate track):** one-on-one coaching to break into and thrive at Fortune 500 FinTechs and elite universities (e.g., Cambridge). [See mentorship page](/mentorship/).
 
+<div class="sports-image">
+  <img src="{{ '/files/pics/work.png' | relative_url }}" alt="Collaboration and delivery at work" loading="lazy" />
+</div>
+
 ## Engagement styles
 - **Advisory sprints:** roadmaps, vendor assessments, architecture reviews, and experiment plans with concrete next steps.  
 - **Build & handoff:** model + API + UI shipped with tests, observability, and docs; pairing sessions to upskill your team.  
@@ -75,8 +79,4 @@ Python (pandas, PyTorch, scikit-learn), SQL (Oracle, SSMS, Teradata), Spark, Plo
     <a class="btn" href="https://www.linkedin.com/in/baron-gracias/">LinkedIn</a>
     <a class="btn" href="/files/BaronGracias.pdf">Download CV</a>
   </div>
-</div>
-
-<div class="sports-image">
-  <img src="{{ '/files/pics/work.png' | relative_url }}" alt="Collaboration and delivery at work" loading="lazy" />
 </div>
