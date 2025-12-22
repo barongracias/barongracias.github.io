@@ -38,6 +38,10 @@ I'm a senior data scientist who ships AI, analytics, and ML products for payment
 - Notable results: Quantum Mechanics III (88), General Relativity III (88), Mathematics for Physics III (87), Probability & Statistics II (91), Electromagnetism II (87).  
 - Chancellor's Prize: nominated in the Top 5 students for academic excellence and contributions to the university and community.
 
+<div class="cambridge-shot">
+  <img src="{{ '/files/pics/baron-cam.png' | relative_url }}" alt="Baron Gracias at Cambridge" loading="lazy" />
+</div>
+
 ## Certifications
 - DeepLearning.AI Machine Learning Specialization - <a href="/files/certs/DeepLearningAI-ML-Specialization.pdf">view certificate</a>  
 - IBM Data Science Professional Certificate - <a href="/files/certs/IBM-Data-Science-Professional.pdf">view certificate</a>  
