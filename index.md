@@ -19,9 +19,10 @@ author_profile: true
       <span>Mentorship & Consultation</span>
     </div>
   </div>
-  <div class="hero-image">
-    <img src="/assets/images/baron-cam.png" alt="Baron Gracias portrait" loading="lazy" />
-  </div>
+</div>
+
+<div class="sports-image">
+  <img src="/assets/images/baron-cam.png" alt="Baron Gracias portrait" loading="lazy" />
 </div>
 
 ## Services at a glance {#services}
