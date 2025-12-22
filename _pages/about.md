@@ -64,7 +64,7 @@ I'm a senior data scientist who ships AI, analytics, and ML products for payment
 - Hosted a Women in Tech football tournament with 20 major companies, including Goldman Sachs, EY, Financial Times, and JPMorgan.  
 
 <div class="sports-image">
-  <img src="{{ '/files/pics/usairan.png' | relative_url }}" alt="Mastercard FC at FIFCO World Cup" loading="lazy" />
+  <img src="{{ '/files/pics/usairan.jpg' | relative_url }}" alt="Mastercard FC at FIFCO World Cup" loading="lazy" />
 </div>
 
 [Email me](mailto:barongracias@gmail.com){: .btn .btn--primary }

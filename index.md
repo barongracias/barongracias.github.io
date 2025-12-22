@@ -121,6 +121,42 @@ author_profile: true
   </div>
 </div>
 
+## Case studies {#case-studies}
+<div class="card-grid three-col">
+  <div class="card">
+    <p class="eyebrow">Payments &amp; fraud</p>
+    <h3>Account classifier</h3>
+    <p>15m+ accounts/month scored with XGBoost, drift checks, and explainability for downstream risk and analytics.</p>
+    <div class="hero-ctas">
+      <a class="btn btn--primary" href="/projects/account-classifier/">Read the case</a>
+    </div>
+  </div>
+  <div class="card">
+    <p class="eyebrow">Economic insight</p>
+    <h3>Payment flows (ONS)</h3>
+    <p>Industry-to-industry flow monitoring to spot UK supply chain stress early with reproducible analysis.</p>
+    <div class="hero-ctas">
+      <a class="btn" href="/projects/payment-flows-ons/">Read the case</a>
+    </div>
+  </div>
+  <div class="card">
+    <p class="eyebrow">Product analytics</p>
+    <h3>Payment Wrapped</h3>
+    <p>Open Banking categorisation and Wrapped-style insights that hit 80%+ satisfaction in A/B tests.</p>
+    <div class="hero-ctas">
+      <a class="btn" href="/projects/payment-wrapped/">Read the case</a>
+    </div>
+  </div>
+  <div class="card">
+    <p class="eyebrow">Maps + ML</p>
+    <h3>g-maps-timeline</h3>
+    <p>Fog-of-war travel map from Google Timeline exports with H3 aggregation and MapLibre tiles.</p>
+    <div class="hero-ctas">
+      <a class="btn" href="/projects/g-maps-timeline/">Read the case</a>
+    </div>
+  </div>
+</div>
+
 ## FinTech outcomes that scale
 - Published industry-to-industry payment flows with the UK Office for National Statistics to forecast economic shocks and supply chain shifts.
 - Classified 15m+ accounts per month (business vs personal) with XGBoost; pipelines tuned to crunch billions of FPS/Bacs/ICS transactions.
@@ -133,7 +169,7 @@ author_profile: true
 
 ## Toolbox
 <div class="pill-row">
-  <span class="pill">Python (pandas, PyTorch, scikit-learn)</span>
+  <span class="pill">Python (PyTorch, TensorFlow, scikit-learn)</span>
   <span class="pill">SQL: Oracle, SSMS, Teradata</span>
   <span class="pill">Spark &amp; parallelisation</span>
   <span class="pill">Data viz: Plotly, PowerBI, DOMO, Tableau</span>
@@ -152,7 +188,7 @@ author_profile: true
 
 <div class="cta-block" id="contact">
   <h2>Let's build something useful</h2>
-  <p>Email for AI consulting, ML delivery, or speaking. I respond quickly and can scope a pilot fast.</p>
+  <p>Email for AI consulting, ML delivery, or mentorship. I respond quickly and can scope a pilot fast.</p>
   <div class="hero-ctas">
     <a class="btn btn--primary" href="mailto:barongracias@gmail.com">Email Baron</a>
     <a class="btn" href="/files/BaronGracias.pdf">Download CV</a>
