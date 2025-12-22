@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-Published industry-to-industry payment flow insights with the UK Office for National Statistics to help forecast economic shocks and understand supply chain exposure.
+Published industry-to-industry payment flow insights with the UK Office for National Statistics to help forecast economic shocks and understand supply chain exposure. Published in the ONS release: <a href="https://www.ons.gov.uk/economy/economicoutputandproductivity/output/articles/industrytoindustrypaymentflowsuk/2016to2023experimentaldataandinsights">Industry-to-industry payment flows, UK: 2016 to 2023</a>.
 
 ## What I built
 - Data model capturing directional payment flows between industries with near-real-time refreshes.  
@@ -23,7 +23,8 @@ Policymakers needed timely signals on how money moves through UK supply chains t
 
 ## Impact
 - Delivered granular, timely insights that informed discussions on economic resilience.  
-- Established a reusable framework for future industry flow monitoring.
+- Established a reusable framework for future industry flow monitoring.  
+- Findings published by the ONS: <a href="https://www.ons.gov.uk/economy/economicoutputandproductivity/output/articles/industrytoindustrypaymentflowsuk/2016to2023experimentaldataandinsights">Industry-to-industry payment flows, UK: 2016 to 2023</a>.
 
 ## Stack
 Python, pandas, Spark, SQL, PowerBI/Tableau for visual exploration, versioned analysis notebooks.

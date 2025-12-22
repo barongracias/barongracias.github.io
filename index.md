@@ -67,19 +67,19 @@ author_profile: true
     <p>Turns Google Maps Timeline exports into an RPG-style map with MapLibre, H3 aggregation, and privacy-first tile generation. Streaming ingest, dedupe, and per-year buckets.</p>
     <p class="muted"><a href="https://github.com/barongracias/FogofWar">github.com/barongracias/FogofWar</a></p>
   </div>
-  <div class="card">
+  <div class="card highlight">
     <p class="eyebrow">FinTech</p>
     <h3>SFE repayment simulator</h3>
     <p>Full-stack Next.js tool modelling Student Finance England loans (Plan 1/2/5 + PGL) with salary timelines, interest assumptions, and interactive charts for payoff sensitivity.</p>
     <p class="muted"><a href="https://github.com/barongracias/SFE-Repayment-Calculator">github.com/barongracias/SFE-Repayment-Calculator</a></p>
   </div>
-  <div class="card">
+  <div class="card highlight">
     <p class="eyebrow">ML pipeline</p>
     <h3>StockPredict</h3>
     <p>End-to-end stock forecasting sandbox: Yahoo Finance ingest, baseline vs tuned models (Lasso, LGBM, XGBoost, RF), grid search, plots, and CLI switches for experiments.</p>
     <p class="muted"><a href="https://github.com/barongracias/StockPredict">github.com/barongracias/StockPredict</a></p>
   </div>
-  <div class="card">
+  <div class="card highlight">
     <p class="eyebrow">Interpolation platform</p>
     <h3>InterPyApp</h3>
     <p>5D->1D interpolation with FastAPI/Next.js, switchable NumPy/TensorFlow backends, and artifact tracking for reproducible runs.</p>
@@ -89,7 +89,7 @@ author_profile: true
 
 ## Case studies {#case-studies}
 <div class="card-grid three-col">
-  <div class="card">
+  <div class="card highlight">
     <p class="eyebrow">Payments &amp; fraud</p>
     <h3>Account classifier</h3>
     <p>15m+ accounts/month scored with XGBoost, drift checks, and explainability for downstream risk and analytics.</p>
@@ -97,15 +97,16 @@ author_profile: true
       <a class="btn btn--primary" href="/projects/account-classifier/">Read the case</a>
     </div>
   </div>
-  <div class="card">
+  <div class="card highlight">
     <p class="eyebrow">Economic insight</p>
     <h3>Payment flows (ONS)</h3>
     <p>Industry-to-industry flow monitoring to spot UK supply chain stress early with reproducible analysis.</p>
     <div class="hero-ctas">
       <a class="btn" href="/projects/payment-flows-ons/">Read the case</a>
+      <a class="btn" href="https://www.ons.gov.uk/economy/economicoutputandproductivity/output/articles/industrytoindustrypaymentflowsuk/2016to2023experimentaldataandinsights">Publication</a>
     </div>
   </div>
-  <div class="card">
+  <div class="card highlight">
     <p class="eyebrow">Product analytics</p>
     <h3>Payment Wrapped</h3>
     <p>Open Banking categorisation and Wrapped-style insights that hit 80%+ satisfaction in A/B tests.</p>
@@ -113,7 +114,7 @@ author_profile: true
       <a class="btn" href="/projects/payment-wrapped/">Read the case</a>
     </div>
   </div>
-  <div class="card">
+  <div class="card highlight">
     <p class="eyebrow">Metric learning</p>
     <h3>m1-machine-learning</h3>
     <p>MNIST baselines plus triplet-loss embeddings and transfer experiments with clear, reproducible results.</p>

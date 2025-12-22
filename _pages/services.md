@@ -76,3 +76,7 @@ Python (pandas, PyTorch, scikit-learn), SQL (Oracle, SSMS, Teradata), Spark, Plo
     <a class="btn" href="/files/BaronGracias.pdf">Download CV</a>
   </div>
 </div>
+
+<div class="sports-image">
+  <img src="{{ '/files/pics/work.png' | relative_url }}" alt="Collaboration and delivery at work" loading="lazy" />
+</div>

@@ -23,6 +23,7 @@ I build data and ML products that stay reliable when data is messy and stakehold
     <p>Industry-to-industry flow monitoring for the UK ONS to spot supply chain stress early with reproducible notebooks.</p>
     <div class="hero-ctas">
       <a class="btn" href="/projects/payment-flows-ons/">Read the case</a>
+      <a class="btn" href="https://www.ons.gov.uk/economy/economicoutputandproductivity/output/articles/industrytoindustrypaymentflowsuk/2016to2023experimentaldataandinsights">Publication</a>
     </div>
   </div>
   <div class="card">
@@ -33,9 +34,17 @@ I build data and ML products that stay reliable when data is messy and stakehold
       <a class="btn" href="/projects/payment-wrapped/">Read the case</a>
     </div>
   </div>
+  <div class="card">
+    <p class="eyebrow">All case studies</p>
+    <h3>See all case studies</h3>
+    <p>Browse the full set, including open-source builds and academic work.</p>
+    <div class="hero-ctas">
+      <a class="btn" href="/projects/#case-studies">View all</a>
+    </div>
+  </div>
 </div>
 
-## Open-source case studies
+## Open-source case studies {#case-studies}
 <div class="card-grid two-col">
   <div class="card">
     <p class="eyebrow">Maps + ML</p>
@@ -113,3 +122,7 @@ I build data and ML products that stay reliable when data is messy and stakehold
   <span class="muted"><a href="https://github.com/barongracias/m1-machine-learning">github.com/barongracias/m1-machine-learning</a> · <a href="/projects/m1-machine-learning/">Case study</a></span>
 
 [Want details or a walk-through? Email me.](mailto:barongracias@gmail.com){: .btn .btn--primary }
+
+<div class="sports-image">
+  <img src="{{ '/files/pics/fog.png' | relative_url }}" alt="Fog of war map visual" loading="lazy" />
+</div>

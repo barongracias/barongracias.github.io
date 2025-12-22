@@ -39,7 +39,7 @@ I'm a senior data scientist who ships AI, analytics, and ML products for payment
 - Chancellor's Prize: nominated in the Top 5 students for academic excellence and contributions to the university and community.
 
 <div class="cambridge-shot">
-  <img src="{{ '/files/pics/baron-cam.png' | relative_url }}" alt="Baron Gracias at Cambridge" loading="lazy" />
+  <img src="{{ '/files/pics/cam.png' | relative_url }}" alt="Baron Gracias at Cambridge" loading="lazy" />
 </div>
 
 ## Certifications
