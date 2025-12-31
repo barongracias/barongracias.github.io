@@ -8,12 +8,6 @@ author_profile: true
     <p class="eyebrow">AI/ML Advisory | Consultation | Data Science</p>
     <h1>Baron Gracias</h1>
     <p class="lede">Experienced AI and data professional who can provide expert opinions on AI products, identify ROI gaps and report findings to leadership.</p>
-    <div class="hero-meta">
-      <span>AI Advisory</span>
-      <span>Data Science Freelance</span>
-      <span>Forward Deployed Engineering</span>
-      <span>Mentorship & Consultation</span>
-    </div>
   </div>
 </div>
 
