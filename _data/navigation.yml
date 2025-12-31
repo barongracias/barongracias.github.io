@@ -1,11 +1,11 @@
 main:
-  - title: "About"
-    url: /about/
-  - title: "Projects"
-    url: /projects/
-  - title: "Services"
-    url: /services/
-  - title: "Mentorship"
-    url: /mentorship/
+  # - title: "About"
+    # url: /about/
+  # - title: "Projects"
+    # url: /projects/
+  # - title: "Services"
+    # url: /services/
+  # - title: "Mentorship"
+    # url: /mentorship/
   - title: "Contact"
     url: /#contact

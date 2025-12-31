@@ -16,7 +16,7 @@
 title: Baron Gracias
 email: barongracias@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Senior data scientist and AI consultant for payments, fraud analytics, and data-heavy products.
+  AI/ML Advisor, Data Scientist, Cambridge AI Master's.
 # twitter_username: username
 github_username: barongracias
 remote_theme: "mmistakes/minimal-mistakes"
@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Baron Gracias"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Data scientist & AI consultant shipping ML, analytics, and products for payments and fraud teams."
+  bio    : "AI/ML Advisor, Consultant, Data Scientist, Cambridge AI Master's."
   links:
     # - label: "Website"
       # icon: "fas fa-fw fa-link"
