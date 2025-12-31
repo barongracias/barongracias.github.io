@@ -8,10 +8,6 @@ author_profile: true
     <p class="eyebrow">AI/ML Advisory | Consultation | Data Science</p>
     <h1>Baron Gracias</h1>
     <p class="lede">Experienced AI and data professional who can provide expert opinions on AI products, identify ROI gaps and report findings to leadership.</p>
-    <div class="hero-ctas">
-      <a class="btn btn--primary" href="mailto:barongracias@gmail.com">Book a project</a>
-      <a class="btn btn--primary" href="/services/">View services</a>
-    </div>
     <div class="hero-meta">
       <span>AI Advisory</span>
       <span>Data Science Freelance</span>
@@ -48,7 +44,8 @@ author_profile: true
 </div> -->
 
 <div class="cta-block" id="contact">
-  <p>Email for AI consulting, ML delivery or mentorship. I respond quickly and can scope a pilot fast.</p>
+  <h2>Contact me</h2>
+  <p>Email for AI consulting, ML delivery or mentorship. Process will involve an initial consultation and scoping call to assess requirements and delivery.</p>
   <div class="hero-ctas">
     <a class="btn btn--primary" href="mailto:barongracias@gmail.com">Email Baron</a>
   </div>
